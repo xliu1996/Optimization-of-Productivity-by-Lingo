@@ -1,0 +1,17 @@
+Check the Assumptions of a Linear Program Problem
+
+For a problem to be solved by LP, it must satisfy four assumptions: proportionality, additivity, divisibility, deteriminism. In the context of this problem, these assumptions can be described as: 
+
+1. Proportionality.  
+The cost of labors or the selling price per m tons production is m times the cost of labor or the selling price per one ton production, which means the cost or the selling price of the production won’t change regarding to the amount of productions. 
+
+2. Additivity.  
+The profit is the total revenue minus the total labor cost and the storage cost. All the revenue is the sum of each month’s revenue. The labor cost and the storage cost are the sum of the each month’s labor cost and each month’s storage cost.  
+
+3. Divisibility. 
+It is possible to use arbitrarily precise fractional quantities tons of production. 
+
+4. Determinism. 
+All constraints, costs and prices are fixed, deterministic, and known precisely. No quantities are random or otherwise unknown. 
+
+Therefore, our problem mostly satisfies the assumptions of linear programming. 
